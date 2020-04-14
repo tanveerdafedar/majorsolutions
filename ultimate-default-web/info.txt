@@ -7,3 +7,6 @@ COMMIT#3 during squash activity
 COMMIT#4 during squash activity
 
 COMMIT#2.1 DURING SQUASH
+
+COMMIT#3.1 DURING SQUASH
+
