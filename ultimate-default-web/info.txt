@@ -3,3 +3,5 @@ This is a critical message that I'm going to ammend into the previous commit alo
 COMMIT#2 during squash activity
 
 COMMIT#3 during squash activity
+
+COMMIT#4 during squash activity
