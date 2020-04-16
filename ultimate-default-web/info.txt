@@ -44,4 +44,8 @@ COMMIT #19 Squash and rebase activity
 
 COMMIT #20 Squash and rebase activity
 
+COMMIT #21 Cherry Pick Demo Commit 1
+
+COMMIT #22 Cherry Pick Demo Commit 2
+
 No more commit after this line.
